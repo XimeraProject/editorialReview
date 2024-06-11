@@ -9,6 +9,11 @@ Ximera is an innovative platform designed to provide dynamic and interactive edu
 The online version of Ximera content is highly interactive, utilizing various multimedia elements such as videos, animations, and interactive quizzes. These features enhance the learning experience by engaging users and providing immediate feedback.
 
 - **Interactivity**: The interactive elements are well-integrated and significantly contribute to user engagement.
+- 1. Geogebra interactives (a) are intuitive to use (b) have a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended. 
+  2. Desmos interactives (a) are intuitive to use (b) serve a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended.
+  3. Auto-graded exercises (a) are employed consistently throughout the text (b) serve a clear purpose within the narrative (c) enhance the flow of the narrative rather than interrupt it (d) utilize appropriate modality (e.g. selectAll/multipleChoice/answer etc.)
+  4. Videos (a) are of good quality (b) enhance the narrative (c) used purposfully throughout the text.
+  5. Additional interactive features (e.g. coding cells) (a) have a clear purpose within the narrative (b) have clear instructions
 - **Navigation**: The navigation is intuitive, allowing users to easily move between sections and access supplementary materials.
 - **Accessibility**: The platform is accessible on multiple devices, including desktops, tablets, and smartphones, ensuring a wide reach.
 
