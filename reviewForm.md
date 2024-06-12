@@ -1,20 +1,22 @@
 # Editorial Review of Ximera Content
 
 ## Introduction
-Ximera is an innovative platform designed to provide dynamic and interactive educational content. This review evaluates the effectiveness, usability, and quality of Ximera content in both online and PDF formats.
+Ximera is an innovative platform designed to provide dynamic and interactive educational content. This review evaluates the effectiveness, usability, and quality of a Ximera item (e.g. book, worksheet) in both online and PDF formats.
 
-## Content Structure
+## Content Structure and Platform Utilization
 
 ### Online Format
 The online version of Ximera content is highly interactive, utilizing various multimedia elements such as videos, animations, and interactive quizzes. These features enhance the learning experience by engaging users and providing immediate feedback.
 
-- **Interactivity**: The interactive elements are well-integrated and significantly contribute to user engagement.
-- 1. Geogebra interactives (a) are intuitive to use (b) have a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended. 
+- **Interactivity**: The interactive elements are well-designed, well-integrated, and significantly contribute to user engagement and content comprehension.
+  1. Geogebra interactives (a) are intuitive to use (b) have a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended. 
   2. Desmos interactives (a) are intuitive to use (b) serve a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended.
-  3. Auto-graded exercises (a) are employed consistently throughout the text (b) serve a clear purpose within the narrative (c) enhance the flow of the narrative rather than interrupt it (d) utilize appropriate modality (e.g. selectAll/multipleChoice/answer etc.)
-  4. Videos (a) are of good quality (b) enhance the narrative (c) used purposfully throughout the text.
-  5. Additional interactive features (e.g. coding cells) (a) have a clear purpose within the narrative (b) have clear instructions
+  3. Auto-graded exercises (a) are employed consistently throughout the text (b) serve a clear purpose within the narrative (c) enhance the flow of the narrative rather than disrupt it (d) utilize appropriate modality (e.g. selectAll, multipleChoice, answer etc.)
+  4. Videos (a) are of good quality (b) enhance the narrative (c) are used purposfully throughout the text.
+  5. Additional interactive features (e.g. coding cells) (a) have a clear purpose within the narrative (b) have clear instructions.
 - **Navigation**: The navigation is intuitive, allowing users to easily move between sections and access supplementary materials.
+  1. It is clear what (if any) supplementary materials are available and how to access them.
+  2. Links and internal references work.
 - **Accessibility**: The platform is accessible on multiple devices, including desktops, tablets, and smartphones, ensuring a wide reach.
 
 ### PDF Format
@@ -27,15 +29,19 @@ The PDF format of Ximera content provides a static version of the material, whic
 ## Content Quality
 
 ### Accuracy
-Ximera content is accurate and up-to-date, with references to recent research and developments in the respective fields.
+Content is accurate and up-to-date, with references to recent research and developments in the respective fields.
 
 - **Content Validation**: All information is thoroughly reviewed and validated by subject matter experts.
 - **References**: The inclusion of references and further reading materials enhances the credibility of the content.
+- **Errata**: A way for users to report errors directly to authors is availalbe.
 
 ### Depth and Breadth
 The content covers a wide range of topics with varying levels of depth, catering to different learning needs and preferences.
 
 - **Comprehensive Coverage**: Topics are covered comprehensively, providing a thorough understanding of the subject matter.
+  1. Content meets state guidelines (e.g. Ohio TAG).
+  2. Content meets professional organization guidelines (e.g. LACSG).
+  3. Content is consistent with existing best practices.
 - **Layered Learning**: The material is presented in a layered manner, allowing users to delve deeper into complex topics as needed.
 
 ## Usability
