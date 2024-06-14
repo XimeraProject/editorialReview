@@ -45,7 +45,14 @@ The content covers a wide range of topics with varying levels of depth, catering
   3. Content is consistent with existing best practices.
   4. Learning outcomes are clearly stated.
   5. All learning outcomes have corresponding assessments or activities.
+ 
+### Quality of Writing and Exposition
+Content is presented in an even, cohesive manner, utilizing a consistent pedagogical style throughout.  Explanations, and flow of ideas are easy to follow.
+
+- **Pedagogical Consistency**: Consistent techniques are used throughout the text.  (E.g. elements such as explorations, auto-graded exercises, and discussions are employed consistently throughout.)
+- **Flow of Ideas**: Ideas are developed logically, and supported with a consistent amount of rigor throughout the text.
 - **Layered Learning**: The material is presented in a layered manner, allowing users to delve deeper into complex topics as needed.
+- **Writing Quality**: Writing is clear, engaging, and grammatically correct.
 
 ## Usability
 
