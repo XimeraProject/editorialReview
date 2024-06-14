@@ -3,7 +3,7 @@
 ## Introduction
 Ximera is an innovative platform designed to provide dynamic and interactive educational content. This review evaluates the effectiveness, usability, and quality of a Ximera item (e.g. book, worksheet) in both online and PDF formats.
 
-## Content Structure and Platform Utilization
+## Effective Platform Utilization
 
 ### Online Format
 The online version of Ximera content is highly interactive, utilizing various multimedia elements such as videos, animations, and interactive quizzes. These features enhance the learning experience by engaging users and providing immediate feedback.
@@ -14,6 +14,7 @@ The online version of Ximera content is highly interactive, utilizing various mu
   3. Auto-graded exercises (a) are employed consistently throughout the text (b) serve a clear purpose within the narrative (c) enhance the flow of the narrative rather than disrupt it (d) utilize appropriate modality (e.g. selectAll, multipleChoice, answer etc.)
   4. Videos (a) are of good quality (b) enhance the narrative (c) are used purposfully throughout the text.
   5. Additional interactive features (e.g. coding cells) (a) have a clear purpose within the narrative (b) have clear instructions.
+  6. Problem sets are easy to find.
 - **Navigation**: The navigation is intuitive, allowing users to easily move between sections and access supplementary materials.
   1. It is clear what (if any) supplementary materials are available and how to access them.
   2. Links and internal references work.
@@ -42,6 +43,8 @@ The content covers a wide range of topics with varying levels of depth, catering
   1. Content meets state guidelines (e.g. Ohio TAG).
   2. Content meets professional organization guidelines (e.g. LACSG).
   3. Content is consistent with existing best practices.
+  4. Learning outcomes are clearly stated.
+  5. All learning outcomes have corresponding assessments or activities.
 - **Layered Learning**: The material is presented in a layered manner, allowing users to delve deeper into complex topics as needed.
 
 ## Usability
