@@ -11,21 +11,23 @@ online and PDF formats.
 
 ## Usability
 
+The online experience is often primarly the student experience. 
+
 ### User Experience (Online)
 [] Is there a "Ximera Tutorial Activity" to help students understand the platform?
+[] Are the **basic** conventions of LaTeX respected? (use of environments, enumerate, itemize, math-mode for all math, use of display math, etc)
 [] Are the `\answer` boxes reasonably placed on the screen, using `$\left(\answer{\pi}\right)$`
 [] Is there sufficient and consistent  supporting language to help the students answer the quesion?
 [] Are answer types consistent? EG: `NA` vs `N/A` vs `na` are inconsistent and can be confusing for students
 [] Does the command `\answer` have the correct settings for the answer type? (format=string, tolerance=.04, etc)
+[] Are there checks throughout the readings? (EG questions with `\answer` after definitions, and within solutions to worked problems?)
+[] Is the amount of interaction approperate? 
+[] Are there rendering errors? Please **list the first five** rendering errors discoved. 
 
 
 ### User Experience (PDF)
 The PDF format provides a straightforward and easy-to-use version of the content.
 
-- **Readability**: The content is well-organized and easy to read, with clear headings and logical progression.
-- **Portability**: The PDF format is portable and can be easily shared and accessed offline.
-
-## Recommendations
 
 ### Online Format
 - **Enhance Navigation**: Implement more advanced navigation features such as search functionality and bookmarking.
