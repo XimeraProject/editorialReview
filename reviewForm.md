@@ -1,7 +1,35 @@
 # Editorial Review of Ximera Content
 
 ## Introduction
-Ximera is an innovative platform designed to provide dynamic and interactive educational content. This review evaluates the effectiveness, usability, and quality of a Ximera item (e.g. book, worksheet) in both online and PDF formats.
+Ximera is an platform designed to leverage author's knowledge of LaTeX to
+provide dynamic and interactive *educational* content. This review evaluates the:
+* usability
+* quality
+* effectiveness  
+of Ximera products, be they worksheets, courses, or textbooks, etc, in both
+online and PDF formats.
+
+## Usability
+
+### User Experience (Online)
+This needs to be about nuts and bolts
+
+### User Experience (PDF)
+The PDF format provides a straightforward and easy-to-use version of the content.
+
+- **Readability**: The content is well-organized and easy to read, with clear headings and logical progression.
+- **Portability**: The PDF format is portable and can be easily shared and accessed offline.
+
+## Recommendations
+
+### Online Format
+- **Enhance Navigation**: Implement more advanced navigation features such as search functionality and bookmarking.
+- **Increase Interactivity**: Add more interactive elements such as simulations and gamified quizzes to further engage users.
+
+### PDF Format
+- **Improve Design**: Enhance the visual design of the PDF to include more graphics and visual aids.
+- **Update Regularly**: Ensure that the PDF content is regularly updated to reflect the latest information and research.
+
 
 ## Effective Platform Utilization
 
@@ -54,29 +82,6 @@ Content is presented in an even, cohesive manner, utilizing a consistent pedagog
 - **Layered Learning**: The material is presented in a layered manner, allowing users to delve deeper into complex topics as needed.
 - **Writing Quality**: Writing is clear, engaging, and grammatically correct.
 
-## Usability
-
-### User Experience (Online)
-The user experience in the online format is enhanced by interactive elements and a responsive design.
-
-- **Engagement**: Interactive quizzes and multimedia elements keep users engaged and motivated.
-- **Feedback**: Immediate feedback on quizzes helps reinforce learning and correct misunderstandings.
-
-### User Experience (PDF)
-The PDF format provides a straightforward and easy-to-use version of the content.
-
-- **Readability**: The content is well-organized and easy to read, with clear headings and logical progression.
-- **Portability**: The PDF format is portable and can be easily shared and accessed offline.
-
-## Recommendations
-
-### Online Format
-- **Enhance Navigation**: Implement more advanced navigation features such as search functionality and bookmarking.
-- **Increase Interactivity**: Add more interactive elements such as simulations and gamified quizzes to further engage users.
-
-### PDF Format
-- **Improve Design**: Enhance the visual design of the PDF to include more graphics and visual aids.
-- **Update Regularly**: Ensure that the PDF content is regularly updated to reflect the latest information and research.
 
 ## Conclusion
 Ximera offers high-quality educational content that is both engaging and informative. The online format excels in interactivity and user engagement, while the PDF format provides a reliable and portable version of the material. With some enhancements, Ximera can further improve the learning experience for its users.
