@@ -12,7 +12,12 @@ online and PDF formats.
 ## Usability
 
 ### User Experience (Online)
-This needs to be about nuts and bolts
+[] Is there a "Ximera Tutorial Activity" to help students understand the platform?
+[] Are the `\answer` boxes reasonably placed on the screen, using `$\left(\answer{\pi}\right)$`
+[] Is there sufficient and consistent  supporting language to help the students answer the quesion?
+[] Are answer types consistent? EG: `NA` vs `N/A` vs `na` are inconsistent and can be confusing for students
+[] Does the command `\answer` have the correct settings for the answer type? (format=string, tolerance=.04, etc)
+
 
 ### User Experience (PDF)
 The PDF format provides a straightforward and easy-to-use version of the content.
