@@ -36,28 +36,18 @@ The online experience is often primarly the student experience.
 
 ## Enhanced Features
 
-### Online Format
-The online version of Ximera content is highly interactive, utilizing various multimedia elements such as videos, animations, and interactive quizzes. These features enhance the learning experience by engaging users and providing immediate feedback.
+### Online Interactivity
+ The interactive elements are well-designed, well-integrated, and significantly contribute to user engagement and content comprehension.
+- [ ] Geogebra interactives (a) are intuitive to use (b) have a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended. 
+- [ ] Desmos interactives (a) are intuitive to use (b) serve a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended.
+- [ ] Auto-graded exercises (a) are employed consistently throughout the text (b) serve a clear purpose within the narrative (c) enhance the flow of the narrative rather than disrupt it (d) utilize appropriate modality (e.g. selectAll, multipleChoice, answer etc.)
+- [ ] Videos (a) are of good quality (b) enhance the narrative (c) are used purposfully throughout the text.
+- [ ] Additional interactive features (e.g. coding cells) (a) have a clear purpose within the narrative (b) have clear instructions.
+- [ ] Problem sets are easy to find.
 
-- **Interactivity**: The interactive elements are well-designed, well-integrated, and significantly contribute to user engagement and content comprehension.
-  1. Geogebra interactives (a) are intuitive to use (b) have a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended. 
-  2. Desmos interactives (a) are intuitive to use (b) serve a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended.
-  3. Auto-graded exercises (a) are employed consistently throughout the text (b) serve a clear purpose within the narrative (c) enhance the flow of the narrative rather than disrupt it (d) utilize appropriate modality (e.g. selectAll, multipleChoice, answer etc.)
-  4. Videos (a) are of good quality (b) enhance the narrative (c) are used purposfully throughout the text.
-  5. Additional interactive features (e.g. coding cells) (a) have a clear purpose within the narrative (b) have clear instructions.
-  6. Problem sets are easy to find.
-- **Navigation**: The navigation is intuitive, allowing users to easily move between sections and access supplementary materials.
-  1. It is clear what (if any) supplementary materials are available and how to access them.
-  2. Links and internal references work.
-- **Accessibility**: The platform is accessible on multiple devices, including desktops, tablets, and smartphones, ensuring a wide reach.
 
 ### PDF Format
-The PDF format of Ximera content provides a static version of the material, which is useful for offline study and reference. 
-
-- **Clarity**: The content is clearly organized with distinct headings and subheadings, making it easy to follow.
-- **Design**: The design is clean and professional, with appropriate use of fonts, colors, and white space.
-- **Usability**: While the PDF format lacks interactivity, it is well-suited for printing and offline use.
-
+Enhancements of the standard PDF format are: Answer keys, Print-on-demand ready copies, etc. 
 ## Content Quality
 
 ### Accuracy
@@ -85,8 +75,5 @@ Content is presented in an even, cohesive manner, utilizing a consistent pedagog
 - **Layered Learning**: The material is presented in a layered manner, allowing users to delve deeper into complex topics as needed.
 - **Writing Quality**: Writing is clear, engaging, and grammatically correct.
 
-
-## Conclusion
-Ximera offers high-quality educational content that is both engaging and informative. The online format excels in interactivity and user engagement, while the PDF format provides a reliable and portable version of the material. With some enhancements, Ximera can further improve the learning experience for its users.
 
 ---
