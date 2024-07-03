@@ -9,6 +9,11 @@ provide dynamic and interactive *educational* content. This review evaluates the
 of Ximera products, be they worksheets, courses, or textbooks, etc, in both
 online and PDF formats.
 
+## Type of Content
+
+Describe this type of Ximera content, that is, is it: an online textbook? A PDF textbook? A set of PDF worksheets? A set of online worksheets? A practice exam? etc. 
+
+
 ## Usability
 
 The online experience is often primarly the student experience. 
