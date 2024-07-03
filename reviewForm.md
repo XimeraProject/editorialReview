@@ -31,19 +31,37 @@ The online experience is often primarly the student experience.
 - [ ] Is there a table of contents?
 - [ ] Is there an index?
 - [ ] Is there an appendix about Ximera? 
-- [ ] Are `\answer` and `prompt` used approperately?
+- [ ] Are `\answer` and `prompt` used approperately?P
 
 
 ## Enhanced Features
 
 ### Online Interactivity
  The interactive elements are well-designed, well-integrated, and significantly contribute to user engagement and content comprehension.
-- [ ] Geogebra interactives (a) are intuitive to use (b) have a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended. 
-- [ ] Desmos interactives (a) are intuitive to use (b) serve a clear purpose within the narrative (c) have clear instructions (d) utilize consistent styling throughout the text (e) function as intended.
-- [ ] Auto-graded exercises (a) are employed consistently throughout the text (b) serve a clear purpose within the narrative (c) enhance the flow of the narrative rather than disrupt it (d) utilize appropriate modality (e.g. selectAll, multipleChoice, answer etc.)
-- [ ] Videos (a) are of good quality (b) enhance the narrative (c) are used purposfully throughout the text.
-- [ ] Additional interactive features (e.g. coding cells) (a) have a clear purpose within the narrative (b) have clear instructions.
-- [ ] Problem sets are easy to find.
+- Geogebra interactives 
+  - [ ] are intuitive to use 
+  - [ ] have a clear purpose within the narrative 
+  - [ ] have clear instructions 
+  - [ ] utilize consistent styling throughout the text 
+  - [ ] function as intended. 
+- Desmos interactives 
+  - [ ] are intuitive to use 
+  - [ ] serve a clear purpose within the narrative - - [ ] have clear instructions 
+  - [ ] utilize consistent styling throughout the text 
+  - [ ] function as intended.
+- Auto-graded exercises
+  - [ ] are employed consistently throughout the text 
+  - [ ] serve a clear purpose within the narrative 
+  - [ ] enhance the flow of the narrative rather than disrupt it 
+  - [ ] utilize appropriate modality (e.g. selectAll, multipleChoice, answer etc.)
+- Videos
+  - [ ] are of good quality 
+  - [ ] enhance the narrative 
+  - [ ] are used purposfully throughout the text.
+- Additional interactive features (e.g. coding cells) 
+  - [ ] have a clear purpose within the narrative
+  - [ ]  have clear instructions.
+  - [ ] Problem sets are easy to find.
 
 
 ### PDF Format
