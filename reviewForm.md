@@ -25,6 +25,7 @@ The online experience is often primarly the student experience.
 - [ ] Is there sufficient and consistent  supporting language to help the students answer the quesion?
 - [ ] Are answer types consistent? EG: `NA` vs `N/A` vs `na` are inconsistent and can be confusing for students
 - [ ] Does the command `\answer` have the correct settings for the answer type? (format=string, tolerance=.04, etc)
+- [ ] Do questions utilize appropriate modality (e.g. `selectAll`, `multipleChoice`, `answer` etc.)
 - [ ] Are there checks throughout the readings? (EG questions with `\answer` after definitions, and within solutions to worked problems?)
 - [ ] Is the amount of interaction approperate? 
 - [ ] Are there rendering errors? Please **list the first five** rendering errors discoved. 
@@ -41,8 +42,7 @@ The online experience is often primarly the student experience.
 
 ## Enhanced Features
 
-### Online Interactivity
- The interactive elements are well-designed, well-integrated, and significantly contribute to user engagement and content comprehension.
+### Online Enhancements
 - Geogebra interactives 
   - [ ] are intuitive to use 
   - [ ] have a clear purpose within the narrative 
@@ -54,23 +54,28 @@ The online experience is often primarly the student experience.
   - [ ] serve a clear purpose within the narrative - - [ ] have clear instructions 
   - [ ] utilize consistent styling throughout the text 
   - [ ] function as intended.
-- Auto-graded exercises
-  - [ ] are employed consistently throughout the text 
-  - [ ] serve a clear purpose within the narrative 
-  - [ ] enhance the flow of the narrative rather than disrupt it 
-  - [ ] utilize appropriate modality (e.g. selectAll, multipleChoice, answer etc.)
 - Videos
   - [ ] are of good quality 
   - [ ] enhance the narrative 
   - [ ] are used purposfully throughout the text.
 - Additional interactive features (e.g. coding cells) 
   - [ ] have a clear purpose within the narrative
-  - [ ]  have clear instructions.
+  - [ ] have clear instructions.
   - [ ] Problem sets are easy to find.
+- Randomly Generated Problems
+- SAGE Cell Programming
+- Other Answer-Type Enhancements
+
+### PDF Enhancements
+  - [ ] Answer keys, 
+  - [ ] Print-on-demand ready copies,
+  - [ ] Instructor Editions
 
 
-### PDF Format
-Enhancements of the standard PDF format are: Answer keys, Print-on-demand ready copies, etc. 
+
+
+
+
 ## Content Quality
 
 ### Accuracy
